@@ -1,0 +1,25 @@
+h1, .jumbotron {
+	text-align: left;
+	font-family: 'Cinzel', serif;
+	color: #fff;
+}
+
+.jumbotron {
+	background-image: url("background.jpg");
+}
+
+body {
+	font-family:'Cinzel', serif;;
+  text-align: center;
+  background-color: lightblue;
+}
+
+
+img {
+	width:400px;
+	height: 400px;
+}
+
+ 
+
+ 
